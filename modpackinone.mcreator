@@ -1,9 +1,25 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "H",
+      "type": "achievement",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "h",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/modpackinone/advancements/h.json"
+        ]
+      }
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "advancements.h.title": "H",
+      "advancements.h.descr": "j"
+    }
   },
   "foldersRoot": {
     "name": "~",
