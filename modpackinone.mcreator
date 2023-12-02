@@ -1,41 +1,9 @@
 {
-  "mod_elements": [
-    {
-      "name": "Test",
-      "type": "achievement",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "test",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/modpackinone/advancements/test.json"
-        ]
-      }
-    },
-    {
-      "name": "Lol",
-      "type": "achievement",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "lol",
-      "metadata": {
-        "files": [
-          "src/main/resources/data/modpackinone/advancements/lol.json"
-        ]
-      }
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {
-      "advancements.lol.title": "Lol",
-      "advancements.test.title": "Test",
-      "advancements.lol.descr": "jh",
-      "advancements.test.descr": "test"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
